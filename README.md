@@ -21,6 +21,6 @@ Based on the mock dashboard provided by the stakeholders develop an interactive 
 
 ## Final Dashboard
 Check out the [dashboard](https://project.novypro.com/csK5I9).
-<p align="center"><img width="100%" alt="Screenshot 2024-01-24 224224" src="https://github.com/sgpreetam/hospitality_domain_project/assets/139052998/bc303e86-3c91-468e-a53f-5ebaa82f7f18"></p>
-
-<p align="center"><img width="100%" alt="Screenshot 2024-01-24 224306" src="https://github.com/sgpreetam/hospitality_domain_project/assets/139052998/190c9448-970a-46b0-9b87-f037816cea1a"></p>
+<p align="center"><img width="100%" alt="Screenshot 2024-01-24 224224" src="./resources/Dashboard_home.png"></p>
+<p align="center"><img width="100%" alt="Screenshot 2024-01-24 224306" src="./resources/Dashboard_monthly.png"></p>
+<p align="center"><img width="100%" alt="Screenshot 2024-01-24 224306" src="./resources/Dashboard_t.png"></p>
